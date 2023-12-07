@@ -1,5 +1,6 @@
 from setuptools import setup
 
+APP_NAME = 'Work Simulator'
 APP = ['main.py']
 DATA_FILES = []
 OPTIONS = {
