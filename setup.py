@@ -5,6 +5,7 @@ APP = ['main.py']
 DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
+    'packages': ['modulegraph', 'py2app', 'macholib', 'setuptools', 'altgraph', 'PyAutoGUI', 'pynput']
 }
 
 setup(
