@@ -7,7 +7,7 @@
 ## Использование
 
 1. **Скачайте программу:**
-   - Если вы используете macOS, скачайте файл `WorkSimulator.dmg` из раздела [релизов](https://github.com/yourusername/WorkSimulator/releases).
+   - Если вы используете macOS, скачайте файл `WorkSimulator.dmg` из раздела [релизов](https://github.com/шivanisenko-n/Work_Simulator/releases).
    - Если у вас есть Python, вы можете собрать и запустить программу с помощью исходного кода.
 
 2. **Запуск программы:**
